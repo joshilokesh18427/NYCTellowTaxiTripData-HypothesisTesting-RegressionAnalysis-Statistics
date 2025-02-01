@@ -68,6 +68,9 @@ Since the P-value is less than 0.01, we **reject the null hypothesis**, confirmi
 
 A **multiple linear regression model** was implemented to explore the relationship between **trip distance, trip duration, payment type**  and **fare amount**. 
 
+  <img width="750" alt="image" src="https://github.com/user-attachments/assets/cf3ddb0a-2471-4b1a-8fbf-e6251250affc" />
+  <img width="750" alt="image" src="https://github.com/user-attachments/assets/88a12acc-351a-4eca-98e7-0fd499ac4132" />
+
 #### Model Performance Metrics:  
 - **Mean Squared Error (MSE)**: `0.7053`  
 - **R-squared (R²)**: `0.9637`  
@@ -75,10 +78,7 @@ A **multiple linear regression model** was implemented to explore the relationsh
 The **high R² value (0.9637)** suggests that the model explains approximately **96.5% of the variance** in fare amount based on trip distance, trip duration, and payment type indicating a strong relationship between these variables. 
 The **low MSE (0.7053)** further supports the model’s accuracy in predicting fare amounts.  
 
-  <img width="750" alt="image" src="https://github.com/user-attachments/assets/cf3ddb0a-2471-4b1a-8fbf-e6251250affc" />
-  <img width="750" alt="image" src="https://github.com/user-attachments/assets/88a12acc-351a-4eca-98e7-0fd499ac4132" />
-
-These results confirm, and reinforce the importance of time/duration-based pricing in taxi services.
+These results confirm, and reinforce the importance of time/distance based pricing in taxi services.
 
 ## Key Insights  
 
