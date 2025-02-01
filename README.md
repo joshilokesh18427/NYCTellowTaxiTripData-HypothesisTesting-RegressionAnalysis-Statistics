@@ -44,7 +44,7 @@ Statistical analysis was conducted on a random sample of 100K records from the o
 - Single-passenger rides dominate both card and cash payments:  
   - **47% of all card transactions** involve single-passenger rides.  
   - **24% of all cash transactions** involve single-passenger rides.
- 
+
   <img width="750" alt="image" src="https://github.com/user-attachments/assets/63987cd7-2748-47d7-beb2-b37c81da03f3" />
 
 - The percentage of transactions decreases as the passenger count increases, suggesting that larger groups may prefer alternative transportation methods.  
